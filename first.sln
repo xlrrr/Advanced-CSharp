@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BombBuster", "first\BombBuster.csproj", "{14D669C6-3FC7-4DC0-B698-CCC59B387A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RageQuit", "RageQuit\RageQuit.csproj", "{DCFC16B0-C466-43DB-8E90-0C3EF1E0F410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PopulationCounter", "PopulationCounter\PopulationCounter.csproj", "{05DA60E3-26FF-449B-AE01-020E4AA41BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D669C6-3FC7-4DC0-B698-CCC59B387A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D669C6-3FC7-4DC0-B698-CCC59B387A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D669C6-3FC7-4DC0-B698-CCC59B387A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D669C6-3FC7-4DC0-B698-CCC59B387A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFC16B0-C466-43DB-8E90-0C3EF1E0F410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFC16B0-C466-43DB-8E90-0C3EF1E0F410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFC16B0-C466-43DB-8E90-0C3EF1E0F410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFC16B0-C466-43DB-8E90-0C3EF1E0F410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DA60E3-26FF-449B-AE01-020E4AA41BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DA60E3-26FF-449B-AE01-020E4AA41BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DA60E3-26FF-449B-AE01-020E4AA41BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DA60E3-26FF-449B-AE01-020E4AA41BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
